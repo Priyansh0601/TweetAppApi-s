@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-05-28T21:42:17.8576504Z"
+    },
+    "cosmosdb1": {
+      "restored": true,
+      "restoreTime": "2021-05-28T21:42:56.4566713Z"
+    }
+  },
+  "parameters": {
+    "cosmosdb1.resourceGroupName": {
+      "Name": "cosmosdb1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "tweetappaccountResourceGroup"
+    },
+    "cosmosdb1.subscriptionId": {
+      "Name": "cosmosdb1.subscriptionId",
+      "Type": "subscription",
+      "Value": "1a7fe497-410b-42cb-a4ac-4d5f5bc98cb8"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\TweetApp\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TweetApp\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TweetApp\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.AssemblyInfo.cs
+C:\Users\User\source\repos\TweetApp\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TweetApp\TweetApp.Service\bin\Debug\netcoreapp3.1\TweetApp.Service.deps.json
+C:\Users\User\source\repos\TweetApp\TweetApp.Service\bin\Debug\netcoreapp3.1\TweetApp.Service.dll
+C:\Users\User\source\repos\TweetApp\TweetApp.Service\bin\Debug\netcoreapp3.1\TweetApp.Service.pdb
+C:\Users\User\source\repos\TweetApp\TweetApp.Service\bin\Debug\netcoreapp3.1\TweetApp.Repository.dll
+C:\Users\User\source\repos\TweetApp\TweetApp.Service\bin\Debug\netcoreapp3.1\TweetApp.Repository.pdb
+C:\Users\User\source\repos\TweetApp\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.csproj.CopyComplete
+C:\Users\User\source\repos\TweetApp\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.dll
+C:\Users\User\source\repos\TweetApp\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.pdb
