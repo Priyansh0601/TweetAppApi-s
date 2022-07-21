@@ -10,3 +10,16 @@ C:\Users\User\source\repos\TweetApp\TweetApp.Service\bin\Debug\netcoreapp3.1\Twe
 C:\Users\User\source\repos\TweetApp\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.csproj.CopyComplete
 C:\Users\User\source\repos\TweetApp\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.dll
 C:\Users\User\source\repos\TweetApp\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.pdb
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\bin\Debug\netcoreapp3.1\TweetApp.Service.deps.json
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\bin\Debug\netcoreapp3.1\TweetApp.Service.dll
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\bin\Debug\netcoreapp3.1\TweetApp.Service.pdb
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\bin\Debug\netcoreapp3.1\TweetApp.Repository.dll
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\bin\Debug\netcoreapp3.1\TweetApp.Repository.pdb
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.csproj.AssemblyReference.cache
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.AssemblyInfoInputs.cache
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.AssemblyInfo.cs
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.dll
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.pdb
+C:\Users\cogdotnet609\Source\Repos\TweetApi\TweetApp.Service\obj\Debug\netcoreapp3.1\TweetApp.Service.csproj.CopyComplete

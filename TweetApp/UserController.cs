@@ -72,9 +72,9 @@ namespace TweetApp
             {
                 if (userRegistration != null)
                 {
-                    if (userRegistration.Imgname == null)
+                    if (userRegistration.ImgName == null)
                     {
-                        userRegistration.Imgname = "TU.jpg";
+                        userRegistration.ImgName = "TU.jpg";
                     }
                     var statusMessage = this.service.UserRegistration(userRegistration);
                     return Ok(new { status = statusMessage });

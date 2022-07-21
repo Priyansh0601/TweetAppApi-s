@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.Extensions.Configuration;
+using MongoDB.Driver;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using TweetApp.Repository;
@@ -9,7 +11,7 @@ namespace TweetApp.Service
     public class TweetService :ITweetService
     {
         private readonly ITweetQueries queries;
-
+        private readonly IConfiguration config;
         /// <summary>
         /// create the instance of tweet service.
         /// </summary>
@@ -18,6 +20,7 @@ namespace TweetApp.Service
         {
             this.queries = queries;
         }
+        
 
         /// <summary>
         ///  check that wheather that user is existed or not. if found returns alread existed message, else save the user details.
@@ -54,7 +57,9 @@ namespace TweetApp.Service
         {
             if (!string.IsNullOrEmpty(userID) && !string.IsNullOrEmpty(password))
             {
+                
                 var user = this.queries.Userlogin(userID);
+               
                 if (user != null)
                 {
                     var decodedPassword = DecodePassword(user.Password);
@@ -195,7 +200,7 @@ namespace TweetApp.Service
                 bool tweet = this.queries.UpdateLikes(tweetId);
                 if (tweet)
                 {
-                    tweetList = this.queries.LikesandDislikesCount(userId);
+                    tweetList = this.queries.LikesandDislikesCount(tweetId);
                 }
                 return tweetList;
             }
@@ -216,7 +221,7 @@ namespace TweetApp.Service
                 bool tweet = this.queries.UpdateDisLikes(tweetId);
                 if (tweet)
                 {
-                    tweetList = this.queries.LikesandDislikesCount(userId);
+                    tweetList = this.queries.LikesandDislikesCount(tweetId);
                 }
                 return tweetList;
             }

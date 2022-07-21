@@ -17,7 +17,7 @@ namespace TweetApp.Repository
         bool ForgotPassword(string emailId, string newPassword);
         List<TweetsandUsers> GetUserandTweetList();
 
-        List<TweetsandUsers> LikesandDislikesCount(string userId);
+        List<TweetsandUsers> LikesandDislikesCount(int tweetId);
 
         bool UpdateDisLikes(int tweetId);
 

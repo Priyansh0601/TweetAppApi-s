@@ -1,6 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
+using MongoDB.Driver;
 
 #nullable disable
 
@@ -36,7 +37,7 @@ namespace TweetApp.Repository.TweetAppEntity
 
             modelBuilder.Entity<Tweet>(entity =>
             {
-                entity.Property(e => e.Id).HasColumnName("id");
+                entity.Property(e => e.TweetId).HasColumnName("id");
 
                 entity.Property(e => e.CreatedDate).HasColumnType("datetime");
 
@@ -82,7 +83,7 @@ namespace TweetApp.Repository.TweetAppEntity
                     .HasColumnType("date")
                     .HasColumnName("DOB");
 
-                entity.Property(e => e.Firstname)
+                entity.Property(e => e.FirstName)
                     .IsRequired()
                     .HasMaxLength(255)
                     .IsUnicode(false)
@@ -94,12 +95,12 @@ namespace TweetApp.Repository.TweetAppEntity
                     .IsUnicode(false)
                     .HasColumnName("gender");
 
-                entity.Property(e => e.Imgname)
+                entity.Property(e => e.ImgName)
                     .HasMaxLength(25)
                     .IsUnicode(false)
                     .HasColumnName("imgname");
 
-                entity.Property(e => e.Lastname)
+                entity.Property(e => e.LastName)
                     .HasMaxLength(255)
                     .IsUnicode(false)
                     .HasColumnName("lastname");
@@ -115,5 +116,8 @@ namespace TweetApp.Repository.TweetAppEntity
         }
 
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
-    }
+
+       // var dbContext = new MongoClient(config.GetConnectionString("TweetAppCon"));
+        
+        }
 }

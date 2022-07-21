@@ -13,6 +13,7 @@ namespace TweetApp.Repository.TweetAppEntity
         public string ImgName { get; set; }
         public string UserTweets { get; set; }
         public int? Likes { get; set; }
+        public int? DisLikes { get; set; }
         public bool visible { get; set; }
 
     }
