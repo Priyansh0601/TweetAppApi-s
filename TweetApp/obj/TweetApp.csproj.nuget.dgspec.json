@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp\\TweetApp.csproj": {}
+    "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp\\TweetApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp.Repository\\TweetApp.Repository.csproj": {
+    "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp.Repository\\TweetApp.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp.Repository\\TweetApp.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp.Repository\\TweetApp.Repository.csproj",
         "projectName": "TweetApp.Repository",
-        "projectPath": "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp.Repository\\TweetApp.Repository.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp.Repository\\obj\\",
+        "projectPath": "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp.Repository\\TweetApp.Repository.csproj",
+        "packagesPath": "C:\\Users\\cogdotnet609\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cogdotnet609\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -84,24 +86,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp.Service\\TweetApp.Service.csproj": {
+    "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp.Service\\TweetApp.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp.Service\\TweetApp.Service.csproj",
+        "projectUniqueName": "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp.Service\\TweetApp.Service.csproj",
         "projectName": "TweetApp.Service",
-        "projectPath": "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp.Service\\TweetApp.Service.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp.Service\\obj\\",
+        "projectPath": "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp.Service\\TweetApp.Service.csproj",
+        "packagesPath": "C:\\Users\\cogdotnet609\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cogdotnet609\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -116,8 +120,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp.Repository\\TweetApp.Repository.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp.Repository\\TweetApp.Repository.csproj"
+              "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp.Repository\\TweetApp.Repository.csproj": {
+                "projectPath": "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp.Repository\\TweetApp.Repository.csproj"
               }
             }
           }
@@ -146,24 +150,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp\\TweetApp.csproj": {
+    "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp\\TweetApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp\\TweetApp.csproj",
+        "projectUniqueName": "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp\\TweetApp.csproj",
         "projectName": "TweetApp",
-        "projectPath": "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp\\TweetApp.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp\\obj\\",
+        "projectPath": "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp\\TweetApp.csproj",
+        "packagesPath": "C:\\Users\\cogdotnet609\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cogdotnet609\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -178,8 +184,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp.Service\\TweetApp.Service.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\TweetApp\\TweetApp.Service\\TweetApp.Service.csproj"
+              "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp.Service\\TweetApp.Service.csproj": {
+                "projectPath": "C:\\Users\\cogdotnet609\\Source\\Repos\\TweetApi\\TweetApp.Service\\TweetApp.Service.csproj"
               }
             }
           }
@@ -225,7 +231,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
